@@ -5,6 +5,7 @@
   goofy1();
   goofy2();
 
+  //Remove comment
    //window.addEventListener("load", init);
 
   function init() {
